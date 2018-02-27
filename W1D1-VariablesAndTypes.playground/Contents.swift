@@ -105,7 +105,14 @@ var height: Double = 10
 
 var schoolName = "Lightouse Labs"
 schoolName.uppercased()
+print (schoolName.uppercased())
+
 schoolName.lowercased()
+print (schoolName.lowercased())
+
+
+
+
 
 
 
